@@ -1,0 +1,21 @@
+# --- Fichiers système Windows ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- IDE Arduino (Fichiers temporaires de compilation) ---
+*.local.txt
+.bspm/
+build/
+bin/
+
+# --- Éditeurs de code (VS Code / Notepad++) ---
+.vscode/
+.idea/
+*.bak
+*.workspace
+
+# --- Sécurité (Au cas où tu créerais un fichier de clés secrets séparé) ---
+*.env
+private.h
+secrets.h
