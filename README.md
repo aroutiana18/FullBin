@@ -20,12 +20,13 @@ The system utilizes an ESP32 microcontroller to measure the trash level and tran
 
 ### Hardware Prototype
 Below is the physical prototype of our smart waste bin:
+
 ![FullBin Prototype](docs/photos/prototype.jpg)
 
 ### Web Supervision Platform
 Real-time dashboard interface showing the trash level and bin status:
-![Web Interface](docs/captures/page_web.png)
 
+![Web Interface](docs/captures/Dashboardrouge.jpg)
 ---
 
 ## 🛠️ Hardware Requirements & Components
