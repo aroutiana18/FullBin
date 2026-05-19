@@ -26,7 +26,7 @@ Below is the physical prototype of our smart waste bin:
 ### Web Supervision Platform
 Real-time dashboard interface showing the trash level and bin status:
 
-![Web Interface](docs/captures/Dashboardrouge.png)
+![Web Interface](docs/captures/Dashboardrouge.jpg)
 
 ---
 
