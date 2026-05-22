@@ -94,5 +94,5 @@ const char* CHAT_ID       = "YOUR_TELEGRAM_CHAT_ID";
 
 ## 👥 Team & Collaboration
 
-* **MAHERINANDRASANA Arotiana Brad Florentin** - *Systems & Network Student*
-* **RAMAHANDRISOA Diamondra Patricia** - *Project Co-developer (Web Developer Student)*
+* **MAHERINANDRASANA Arotiana Brad Florentin** ([aroutiana18](https://github.com/aroutiana18)) - *Systems & Network Student*
+* **RAMAHANDRISOA Diamondra Patricia** ([Diamondra Patricia](https://github.com/Diamondra-arch)) - *Project Co-developer (Web Developer Student)*
